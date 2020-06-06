@@ -1,6 +1,6 @@
 # Reactive Forms
 
-This reactive form approach with custom validators. Switch to master branch for template drive form approach
+This is reactive form approach with custom validators. Switch to master branch for template driven form approach
 
 ## Server
 
